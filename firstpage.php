@@ -5,6 +5,7 @@
  * Author: Alex Punay
  * Contact: alexpunay@gmail.com
  * Date: [Date of May 10]
+ * Last modification: [Insert Date May 16, 2024]
  * Contents: This file contains HTML and JavaScript code to display a loader animation
  * while redirecting to the second page when a button is clicked.
  */
