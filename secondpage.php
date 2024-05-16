@@ -5,6 +5,7 @@
  * Author: Alex Punay
  * Contact: alexpunay@gmail.com
  * Date: [Date of May 10, 2024]
+ * Last modification: [Insert Date May 16, 2024]
  * Contents: This file contains HTML, CSS, and JavaScript code to display the user's personal homepage
  * with navigation tabs and a dark mode toggle. It includes sections for profile, education, skills,
  * projects, and contact information.
