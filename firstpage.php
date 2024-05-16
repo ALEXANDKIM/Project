@@ -1,3 +1,15 @@
+<?php
+/**
+ * File: firstpage.php
+ * Purpose: Display a loader animation while redirecting to secondpage.php
+ * Author: Alex Punay
+ * Contact: alexpunay@gmail.com
+ * Date: [Date of creation or last modification]
+ * Contents: This file contains HTML and JavaScript code to display a loader animation
+ * while redirecting to the second page when a button is clicked.
+ */
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
