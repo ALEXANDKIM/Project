@@ -4,7 +4,7 @@
  * Purpose: Display a loader animation while redirecting to secondpage.php
  * Author: Alex Punay
  * Contact: alexpunay@gmail.com
- * Date: [Date of creation or last modification]
+ * Date: [Date of May 10]
  * Contents: This file contains HTML and JavaScript code to display a loader animation
  * while redirecting to the second page when a button is clicked.
  */
